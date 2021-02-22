@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
+# Adult-Teenager Classification using Deep Learning
 
 ## Problem Statement
 Using various models with different vectorizers, I want to determine if a model can accurately predict a users maturity/age by analyzing the words that they use in different subreddits. I will collect 5,000 rows of data from each subreddit, r/Teenagers and r/Adulting, and use that data to train my Naive Bayes and KNN models. I aim to identify key words that are used in either of the two subreddits, create stop words, and determine the best hyperparameters in my models.
